@@ -1,0 +1,6 @@
+{
+  "name": "Metabolisches Syndrom - E-Book Leitfaden",
+  "description": "Offizielle Verkaufsseite für das medizinisch fundierte E-Book zum Metabolischen Syndrom: 5 Diagnosekriterien, Grenzwerte, Selbsttest und nachhaltige Prävention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
